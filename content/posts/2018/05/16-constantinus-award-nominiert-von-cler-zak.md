@@ -3,7 +3,7 @@ title: "Von Null auf Zak"
 description: "Die macher von MyGeorge bauen die Erste mobile-only bank der Schweiz und stellen den Schweizer bankenplatz auf den kopf."
 created: 2018-05-16
 media:
-  hero: https://media.finnoconsult.at/2018/05/16-constantinus-award-nominiert-von-cler-zak.hero.jpg
+  hero: https://media.finnoconsult.at/2018/05/zak-app-handy2.jpg
   thumbnail: https://media.finnoconsult.at/2018/05/16-constantinus-award-nominiert-von-cler-zak.thumb.jpg
 author: Christian Berger
 tags: Award, Mobileapp, Banking, Innovation, Meta
@@ -19,4 +19,4 @@ Aus aktuellem Anlass eine Mitteilung in eigener Sache. __FintechNews__ hat verga
 Kunde: __[Bank Cler](www.cler.ch/de/landing-pages/zak)__
 
 Link zum Artikel:  
-[https://www.constantinus.net/de/nominierungen/nominierungen-detail.html?id=5710](https://www.constantinus.net/de/nominierungen/nominierungen-detail.html?id=5710)
+[https://www.constantinus.net/de/nominierungen/nominierungen-detail.html?id=5761](https://www.constantinus.net/de/nominierungen/nominierungen-detail.html?id=5761)
