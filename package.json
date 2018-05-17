@@ -1,7 +1,10 @@
 {
   "name": "blog",
-  "version": "1.0.0",
+  "version": "1.5.4",
   "homepage": "https://blog.finnoconsult.at",
+  "layout": {
+    "default": "blogpost.jade"
+  },
   "license": "CC-BY-4.0",
   "repository": {
     "type": "git",
