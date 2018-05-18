@@ -1,4 +1,3 @@
 [
-	{"id": "de-at", "name": "Österreich (Deutsch)", "default": true},
-	{"id": "de-de", "name": "Deutschland (Deutsch)"}
+	{"id": "de-at", "name": "Deutsch", "default": true}
 ]

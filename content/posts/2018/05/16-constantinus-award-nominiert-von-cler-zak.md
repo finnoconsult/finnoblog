@@ -1,6 +1,6 @@
 ---
 title: "Von Null auf Zak"
-description: "Die macher von MyGeorge bauen die Erste mobile-only bank der Schweiz und stellen den Schweizer bankenplatz auf den kopf."
+description: "Finnoconsult ist mit Zak auf der Shortlist der Nominierungen des Constantinus Awards 2018"
 created: 2018-05-16
 media:
   hero: https://media.finnoconsult.at/2018/05/zak-app-handy2.jpg
@@ -10,13 +10,25 @@ tags: Award, Mobileapp, Banking, Innovation, Meta
 collection: blog
 ---
 
-"Von Null auf Zak" - Die macher von MyGeorge bauen die Erste mobile-only bank der Schweiz und stellen den Schweizer bankenplatz auf den kopf.
+__Finnoconsult__ ist mit __Zak__ auf der Shortlist der Nominierungen des __Constantinus Awards 2018__
 
-Die __Bank Cler__ positioniert sich mit Zak als digitaler Leader: __Zak__ ist das erste ausschließlich fürs Smartphone konzipierte Schweizer Bankangebot und reduziert Banking aufs Wesentliche. Zak richtet sich an ein “mobile connected” Publikum und bringt eine Reihe von Premieren in den Markt. So wurde die Lösung von Anfang an für den Gebrauch ausschließlich auf dem Mobile zugeschnitten, neben der digitalen Kontoeröffnung und einer sehr intuitiven Budgetübersicht umfasst sie Zusatzservices wie die Möglichkeit von Online-Shopping und einen Chatbot als intelligenter Tippgeber. __Finnoconsult__ war maßgeblich an der Entwicklung von Zak beteiligt und hat das Projekt gemeinsam mit Horvath & Partners, LHBS und BGK in weniger als 11 Monaten realisiert.
+Nach dem erfolgreichen Launch der Mobile Banking App __Zak__ für die __[Bank Cler](www.cler.ch/de/landing-pages/zak)__ im Februar 2018 hat es Finnoconsult jetzt auch auf die Shortlist der Nominierungen zum Constantinus Award 2018 geschafft.
 
-Aus aktuellem Anlass eine Mitteilung in eigener Sache. __FintechNews__ hat vergangene Woche in Abstimmung mit Marktteilnehmern eine Liste der wichtigsten <i>FinTech Influencer</i> Österreichs erstellt. Ich wurde unter die Top 30 gewählt, was mich für unsere Firma __Finnoconsult__, aber auch persönlich, sehr freut.
+### App-Launch in Rekordzeit von 11 Monaten
 
-Kunde: __[Bank Cler](www.cler.ch/de/landing-pages/zak)__
+Finnoconsult entwickelte das erste Mobile-Only Banking Angebot – hinter dem ein komplett neues Geschäftsmodell steht – mit seinen Partnern in einem kleinen, agilen Team in der Rekordzeit von nur 11 Monaten. Ausgehend von ihrem Rebranding von Bank Coop auf Bank Cler revolutionierte das mutige Finanzinstitut mit Zak – der Bank auf dem Smartphone – gleich die gesamte Schweizer Bankenbranche. Denn die Bank beschloss ihre digitalen Produkte nicht wie eine traditionelle Bank, sondern wie ein digitaler Challenger zu entwickeln.
 
-Link zum Artikel:  
-[https://www.constantinus.net/de/nominierungen/nominierungen-detail.html?id=5761](https://www.constantinus.net/de/nominierungen/nominierungen-detail.html?id=5761)
+### Intuitive User-Experience zählt
+
+Das digitale Lanzenprodukt Zak, das seinen Fokus auf eine intuitive User-Experience legt, wurde gemeinsam mit App-Nutzern entwickelt. Damit können jetzt alle täglich notwendigen Bankgeschäfte unter Einsatz modernster Mittel – beispielsweise mit der Smartphone-Kamera – direkt in der App abgewickelt werden. Selbstverständlich erfolgt auch die Eröffnung des Kontos direkt über die App. Ein echtes Highlight sind die virtuellen "Spartöpfe".
+
+Für die Umsetzung des Projekts holte sich Bank Cler Profis wie Finnoconsult an Board. Finnoconsult war für Projektleitung, User Experience Design und Prototyping verantwortlich. Gemeinsam mit den Projektpartnern Horvath & Partners, LHBS und BGK wird die App Zak weiterentwickelt, denn sie soll auch in Zukunft mit neuen Features ausgestattet werden.
+
+### Nominierung Kategorie Mobile Apps
+
+Bei der Preisverleihung am 14. Juni 2018 wird sich zeigen, ob aus der Nominierung ein Constantinus Award wird.
+
+Das __[Projekt Zak](https://www.constantinus.net/de/nominierungen/nominierungen-detail.html?id=6373)__ ist in der Kategorie Mobile Apps für den Constantinus Award 2018 nominiert.
+
+
+<iframe src="https://player.vimeo.com/video/257357955?transparent=1" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" style="min-height:46.5vw;max-height:90vh;width:90vw;display:flex;margin:0 auto;align-self:center;"></iframe>

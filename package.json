@@ -1,6 +1,6 @@
 {
   "name": "blog",
-  "version": "1.5.4",
+  "version": "1.5.6",
   "homepage": "https://blog.finnoconsult.at",
   "layout": {
     "default": "blogpost.jade"
