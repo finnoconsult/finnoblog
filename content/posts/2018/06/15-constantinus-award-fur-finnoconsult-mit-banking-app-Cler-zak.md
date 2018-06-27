@@ -1,6 +1,6 @@
 ---
 title: "FinnoConsult mit Banking-App Cler Zak auf das Podest"
-description: "Unsere __Banking-App Cler Zak__ schaffte es auf das Podest. Wir wurden aus über 123 Projekten auf den dritten Platz der Kategorie __Mobile Apps__ gewählt"
+description: "Unsere Banking-App Cler Zak schaffte es auf das Podest. Wir wurden aus über 123 Projekten auf den dritten Platz der Kategorie Mobile Apps gewählt"
 created: 2018-06-15
 media:
   hero: https://media.finnoconsult.at/2018/06/15-constantinus awards hero.jpg
