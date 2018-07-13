@@ -12,7 +12,7 @@ collection: blog
 
 __Am 14. Juni 2018__ wurde in Salzburg der __Constantinus Award__ verliehen. Mit dem als __Oscar der Beratungs- und IT-Branche__ geltenden Preis werden jährlich die innovativsten Projekte prämiert. Unsere __Banking-App Cler Zak__ schaffte es auf das Podest. Wir wurden aus über 123 Projekten auf den dritten Platz der Kategorie __Mobile Apps__ gewählt.
 
-Mehr Details finden Sie __[hier](https://www.cler.ch/de/bank-cler/medien/medienmitteilung/?detail=https://xml.newsbox.ch/corporate_web/che/bankcoop/press_release/350_5391_4xil20.xml)__
+Mehr Details finden Sie <a href="https://www.cler.ch/de/bank-cler/medien/medienmitteilung/?detail=https://xml.newsbox.ch/corporate_web/che/bankcoop/press_release/350_5391_4xil20.xml" target="_blank">hier</a>
 
 <img src="https://media.finnoconsult.at/2018/06/15-constantinus awards foto1.jpg" alt="FinnoConsult mit Constantinus Award für Mobile App">
 <img src="https://media.finnoconsult.at/2018/06/15-constantinus awards foto3.jpg" alt="FinnoConsult mit Constantinus Award für Mobile App">

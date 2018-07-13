@@ -21,4 +21,4 @@ Berger stellt klar: "Grundvoraussetzung für Innovation ist, dass man so ein Pro
 ### Innovation funktioniert durch Fokussierung
 Häne und Berger definieren außerdem die No-Go's von Innovation: weder "Üben" noch "Basteln" oder die "Suche nach dem perfekten Moment". Ebenso verpönt ist die "Suche nach dem heiligen Kundensegment". Beim Zak-Projekt der Bank Cler lag der Fokus ganz klar auf den Jungen. Trotz oder gerade wegen dem fokussierten Ansatz sind nicht nur ein überzeugendes Produkt, sondern auch beachtliche Streueffekte zustande gekommen. Der älteste Kunde der ausschließlich mobil verfügbaren Banken-App ist 78 Jahre.
 
-Weitere Details "Innovation im Konzern": __[Start-Up-Strategien als Turbo für Konzerne](https://www.horizont.at/home/news/detail/start-up-strategien-als-turbo-fuer-konzerne.html)__
+Weitere Details "Innovation im Konzern": <a href="https://www.horizont.at/home/news/detail/start-up-strategien-als-turbo-fuer-konzerne.html" target="_blank">Start-Up-Strategien als Turbo für Konzerne</a>

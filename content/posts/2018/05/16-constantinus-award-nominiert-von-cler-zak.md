@@ -28,7 +28,7 @@ Für die Umsetzung des Projekts holte sich Bank Cler Profis wie Finnoconsult an 
 
 Bei der Preisverleihung am 14. Juni 2018 wird sich zeigen, ob aus der Nominierung ein Constantinus Award wird.
 
-Das __[Projekt Zak](https://www.constantinus.net/de/nominierungen/)__ ist in der Kategorie MA / Mobile Apps für den Constantinus Award 2018 nominiert.
+Das <a href="https://www.constantinus.net/de/nominierungen/" target="_blank">Projekt Zak</a> ist in der Kategorie MA / Mobile Apps für den Constantinus Award 2018 nominiert.
 
 
 <iframe src="https://player.vimeo.com/video/257357955?transparent=1" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" style="min-height:46.5vw;max-height:90vh;width:90vw;display:flex;margin:0 auto;align-self:center;"></iframe>
