@@ -1,5 +1,5 @@
 ---
-title: "Schweizer Mobile Banking-Markt wächst in 2019"
+title: "Schweizer Mobile Banking-Markt in 2019"
 description: "2019 wird ein wegweisendes Jahr für den Mobile Banking Markt in der Schweiz."
 created: 2019-01-25
 media:
