@@ -9,15 +9,23 @@ tags: Mobileapp, Banking, Innovation, Meta
 collection: blog
 ---
 
+## Die Szene der deutschen Startups darf sich über Nachwuchs freuen.
+Knapp ein Jahr lang hat das Team von __[COMECO](http://comeco.com)__ gemeinsam mit einem Expertenteam von Horváth & Partners, FInnoConsult, LHBS und BKG in Stuttgart geplant, getüftelt und entwickelt. Jetzt wird der Vorhang gelüftet: COMECO steht für COMmunity ECOsystem. Das Startup hat das Ziel, bis 2025 mit seinem Portfolio ein führendes Ökosystem im europäischen Raum aufzubauen, das auf Online-Banking basiert. Nun kündigt das Unternehmen den Start seiner digitalen Plattform an, die Online-Banking und Commerce zum Lifestyle-Banking verbindet. Dabei werden Finanzdienstleister mit Produkt- und Dienstleistungsanbietern sowie mit Endkunden vernetzt.
 
-__Stuttgart, den 06. August 2019__ – Die Szene der deutschen Startups darf sich über Nachwuchs freuen. Knapp ein Jahr lang hat das Team von COMECO gemeinsam mit einem Expertenteam von Horváth & Partners, FInnoConsult, LHBS und BKG in Stuttgart geplant, getüftelt und entwickelt. Jetzt wird der Vorhang gelüftet: COMECO steht für COMmunity ECOsystem. Das Startup hat das Ziel, bis 2025 mit seinem Portfolio ein führendes Ökosystem im europäischen Raum aufzubauen, das auf Online-Banking basiert. Nun kündigt das Unternehmen den Start seiner digitalen Plattform an, die Online-Banking und Commerce zum Lifestyle-Banking verbindet. Dabei werden Finanzdienstleister mit Produkt- und Dienstleistungsanbietern sowie mit Endkunden vernetzt.
+<figure>
+  <img src="https://media.finnoconsult.at/2019/08/teo-comeco-inline.png" alt="teo screens">
+  <figcaption style="text-align:center">
+    Ein paar Einblicke ins Ökosystem
+  </figcaption>
+</figure>
 
-<img src="https://media.finnoconsult.at/2019/08/teo-comeco-inline.png" alt="teo screens">
 
 
 Mit diesem Ansatz unterscheidet sich COMECO von den aktuell am Markt aktiven Fintech-Unternehmen und Startups. Diese sind überwiegend Softwareunternehmen in Gestalt digitaler Finanzmanager, Banken mit Multibanking-Services sowie Payment- und Mehrwert-Plattformen, als auch klassische E-Commerce-Unternehmen.
 
-„Viele der Unternehmen in unserer Branche sind hochspezialisiert und bilden einzelne Elemente des gesamten Spektrums oft hochprofessionell ab. Wir hingegen entwickeln eine Plattform und eine Community, die Online-Banking und Commerce zu einem umfassenden Alltagsbegleiter miteinander verbinden. Das Ergebnis dieses Ansatzes ist weitaus mehr als die Summe der einzelnen Bestandteile. Wir nennen dies Lifestyle-Banking, da es die Flexibilität bietet, den individuellen Lebensstil eines jeden einzelnen Kunden zu unterstützen“, erklärt Stefan Bisterfeld, Geschäftsführer der COMECO GmbH & Co. KG. „Wir möchten als Technologieunternehmen mit unserem ganzheitlichen Ansatz zahlreiche Mehrwerte für alle Beteiligten schaffen und zugleich das Wachstum unserer Finanzdienstleistungs- und Commerce-Partner fördern.“
+„Viele der Unternehmen in unserer Branche sind hochspezialisiert und bilden einzelne Elemente des gesamten Spektrums oft hochprofessionell ab. Wir hingegen entwickeln eine Plattform und eine Community, die Online-Banking und Commerce zu einem umfassenden Alltagsbegleiter miteinander verbinden. Das Ergebnis dieses Ansatzes ist weitaus mehr als die Summe der einzelnen Bestandteile. Wir nennen dies Lifestyle-Banking, da es die Flexibilität bietet, den individuellen Lebensstil eines jeden einzelnen Kunden zu unterstützen“, [erklärt Stefan Bisterfeld](https://www.it-finanzmagazin.de/lifestyle-banking-stuttgarter-fintech-comeco-93008/), Geschäftsführer der COMECO GmbH & Co. KG. „Wir möchten als Technologieunternehmen mit unserem ganzheitlichen Ansatz zahlreiche Mehrwerte für alle Beteiligten schaffen und zugleich das Wachstum unserer Finanzdienstleistungs- und Commerce-Partner fördern.“
+
+## Gleiches Experten-Team, neues revolutionäres Banking-Ökosystem
 
 Die Experten von Horvarth & Partners, FInnoConsult, LHBS und BGK haben COMECO bei der Strategie, Entwicklung und beim Launch des Produkts unterstützt und konnten dabei auf einschlägige Erfahrungen zurückgreifen. Ein Teil des Teams war früher für die Entwicklung von myGeorge bei der Erste Group zuständig, das komplette Team unter dem Lead von Horváth & Partners steht hinter dem 2018 gelaunchten, ersten Mobile-Only Banking der Schweiz, Bank Cler Zak.
 
