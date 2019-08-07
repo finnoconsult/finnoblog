@@ -1,5 +1,5 @@
 ---
-title: "Horvath & Partner und Finnoconsult entwickeln gemeinsam mit Tech-Startup COMECO neue digitale Ökosystem-Plattform für Lifestyle-Banking"
+title: "Horváth & Partners und Finnoconsult entwickeln gemeinsam mit Tech-Startup COMECO neue digitale Ökosystem-Plattform für Lifestyle-Banking"
 description: "Die Szene der deutschen Startups darf sich über Nachwuchs freuen."
 created: 2019-08-06
 media:

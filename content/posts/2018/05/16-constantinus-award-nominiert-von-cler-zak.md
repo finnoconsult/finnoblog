@@ -22,7 +22,7 @@ Finnoconsult entwickelte das erste Mobile-Only Banking Angebot – hinter dem ei
 
 Das digitale Lanzenprodukt Zak, das seinen Fokus auf eine intuitive User-Experience legt, wurde gemeinsam mit App-Nutzern entwickelt. Damit können jetzt alle täglich notwendigen Bankgeschäfte unter Einsatz modernster Mittel – beispielsweise mit der Smartphone-Kamera – direkt in der App abgewickelt werden. Selbstverständlich erfolgt auch die Eröffnung des Kontos direkt über die App. Ein echtes Highlight sind die virtuellen "Spartöpfe".
 
-Für die Umsetzung des Projekts holte sich Bank Cler Profis wie Finnoconsult an Board. Finnoconsult war für Projektleitung, User Experience Design und Prototyping verantwortlich. Gemeinsam mit den Projektpartnern Horvath & Partners, LHBS und BGK wird die App Zak weiterentwickelt, denn sie soll auch in Zukunft mit neuen Features ausgestattet werden.
+Für die Umsetzung des Projekts holte sich Bank Cler Profis wie Finnoconsult an Board. Finnoconsult war für Projektleitung, User Experience Design und Prototyping verantwortlich. Gemeinsam mit den Projektpartnern Horváth & Partners, LHBS und BGK wird die App Zak weiterentwickelt, denn sie soll auch in Zukunft mit neuen Features ausgestattet werden.
 
 ### Nominierung Kategorie Mobile Apps
 
