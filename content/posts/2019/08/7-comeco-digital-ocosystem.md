@@ -10,7 +10,7 @@ collection: blog
 ---
 
 ## Die Szene der deutschen Startups darf sich über Nachwuchs freuen.
-Knapp ein Jahr lang hat das Team von __[COMECO](http://comeco.com)__ gemeinsam mit einem Expertenteam von Horváth & Partners, FInnoConsult, LHBS und BKG in Stuttgart geplant, getüftelt und entwickelt. Jetzt wird der Vorhang gelüftet: COMECO steht für COMmunity ECOsystem. Das Startup hat das Ziel, bis 2025 mit seinem Portfolio ein führendes Ökosystem im europäischen Raum aufzubauen, das auf Online-Banking basiert. Nun kündigt das Unternehmen den Start seiner digitalen Plattform an, die Online-Banking und Commerce zum Lifestyle-Banking verbindet. Dabei werden Finanzdienstleister mit Produkt- und Dienstleistungsanbietern sowie mit Endkunden vernetzt.
+Knapp ein Jahr lang hat das Team von __[COMECO](http://comeco.com)__ gemeinsam mit einem Expertenteam von Horváth & Partners, FInnoConsult, LHBS und BGK in Stuttgart geplant, getüftelt und entwickelt. Jetzt wird der Vorhang gelüftet: COMECO steht für COMmunity ECOsystem. Das Startup hat das Ziel, bis 2025 mit seinem Portfolio ein führendes Ökosystem im europäischen Raum aufzubauen, das auf Online-Banking basiert. Nun kündigt das Unternehmen den Start seiner digitalen Plattform an, die Online-Banking und Commerce zum Lifestyle-Banking verbindet. Dabei werden Finanzdienstleister mit Produkt- und Dienstleistungsanbietern sowie mit Endkunden vernetzt.
 
 <figure style="text-align:center">
   <img src="https://media.finnoconsult.at/2019/08/teo-comeco-inline.png" alt="teo screens">
