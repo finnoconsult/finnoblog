@@ -3,7 +3,7 @@ title: "Horváth & Partners und FInnoConsult entwickeln gemeinsam mit Tech-Start
 description: "Die Szene der deutschen Startups darf sich über Nachwuchs freuen."
 created: 2019-08-06
 media:
-  thumbnail: https://media.finnoconsult.at/2019/08/teo-comeco-thumb.jpg
+  thumbnail: https://media.finnoconsult.at/2019/08/comeco-thumb.png
 author: Guillaume Vaslin-Reimann
 tags: Mobileapp, Banking, Innovation, Meta
 collection: blog
@@ -13,7 +13,7 @@ collection: blog
 Knapp ein Jahr lang hat das Team von __[COMECO](http://comeco.com)__ gemeinsam mit einem Expertenteam von Horváth & Partners, FInnoConsult, LHBS und BGK in Stuttgart geplant, getüftelt und entwickelt. Jetzt wird der Vorhang gelüftet: COMECO steht für COMmunity ECOsystem. Das Startup hat das Ziel, bis 2025 mit seinem Portfolio ein führendes Ökosystem im europäischen Raum aufzubauen, das auf Online-Banking basiert. Nun kündigt das Unternehmen den Start seiner digitalen Plattform an, die Online-Banking und Commerce zum Lifestyle-Banking verbindet. Dabei werden Finanzdienstleister mit Produkt- und Dienstleistungsanbietern sowie mit Endkunden vernetzt.
 
 <figure style="text-align:center">
-  <img src="https://media.finnoconsult.at/2019/08/teo-comeco-inline.png" alt="teo screens">
+  <img src="https://media.finnoconsult.at/2019/08/comeco-inline.png" alt="teo screens">
   <figcaption style="text-align:center">
     Ein paar Einblicke ins Ökosystem
   </figcaption>
