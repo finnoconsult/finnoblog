@@ -12,7 +12,7 @@ collection: blog
 Die Welt des Bezahlens verändert sich. Immer mehr verschwindet das Bargeld von unseren Theken und aus unserem Alltag. Neue Challenger Banken haben diesen Trend früh erkannt, ihr Angebot von Beginn an entsprechend ausgerichtet, Innovationen vorangetrieben und der Erfolg gibt ihnen recht!
 
 <figure style="text-align:center">
-  <img src="https://media.finnoconsult.at/2019/10/zak-goes-wallet-screens.jpg" alt="teo screens">
+  <img src="https://media.finnoconsult.at/2019/10/zak-goes-wallet-screens.png" alt="teo screens">
   <figcaption style="text-align:center">
     Ein paar Einblicke ins Ökosystem
   </figcaption>
