@@ -13,9 +13,6 @@ Die Welt des Bezahlens verändert sich. Immer mehr verschwindet das Bargeld von 
 
 <figure style="text-align:center">
   <img src="https://media.finnoconsult.at/2019/10/zak-goes-wallet-screens.png" alt="teo screens">
-  <figcaption style="text-align:center">
-    Ein paar Einblicke ins Ökosystem
-  </figcaption>
 </figure>
 
 
