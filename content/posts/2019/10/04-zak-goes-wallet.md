@@ -11,6 +11,14 @@ collection: blog
 
 Die Welt des Bezahlens verändert sich. Immer mehr verschwindet das Bargeld von unseren Theken und aus unserem Alltag. Neue Challenger Banken haben diesen Trend früh erkannt, ihr Angebot von Beginn an entsprechend ausgerichtet, Innovationen vorangetrieben und der Erfolg gibt ihnen recht!
 
+<figure style="text-align:center">
+  <img src="https://media.finnoconsult.at/2019/10/zak-goes-wallet-screens.jpg" alt="teo screens">
+  <figcaption style="text-align:center">
+    Ein paar Einblicke ins Ökosystem
+  </figcaption>
+</figure>
+
+
 ## Cash oder doch lieber Mobile Payment?
 Diese Frage hat die Bank Cler gemeinsam mit ihren Partnern, darunter auch FinnoConsult, nun ebenfalls beantwortet. Eine Vielzahl an Produktangeboten rund um Kreditkarten sind auf dem Markt, jedoch nur wenige haben eine bestimme Kundengruppe auf dem Radar. Die Bank Cler hat dies verstanden, hat eine neue Kartenlösung in ihr Angebot aufgenommen. Sie bietet ihrer jüngsten Zielgruppe mit der Smartphone-App «Zak» nun die Möglichkeit des mobilen Bezahlens mit einer rein virtuellen Prepaidkarte. Diese kann innerhalb von Sekunden direkt aus der App heraus aufgeladen und in den verfügbaren Wallets iOS und Android hinterlegt werden. Damit können sämtliche Vorteile des mobilen Bezahlens genutzt werden.
 
