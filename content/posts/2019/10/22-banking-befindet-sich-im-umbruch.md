@@ -52,8 +52,11 @@ Wenn Sie mehr zu zukünftigen Themen der Banken von morgen erfahren möchten, or
 
 
 
+
 <figure class="mozaik mozaik-portrait">
   <img src="https://media.finnoconsult.at/2019/10/ennop22.jpg" alt="teo screens">
   <img src="https://media.finnoconsult.at/2019/10/ennop13.jpg" alt="teo screens">
   <img src="https://media.finnoconsult.at/2019/10/ennop14.jpg" alt="teo screens">
 </figure>
+
+ Wenden Sie sich einfach per Email __[info@finnoconsult.at](mailto:info@finnoconsult.at)__
