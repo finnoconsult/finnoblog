@@ -11,17 +11,18 @@ tags: Banking, Innovation, Meta
 collection: blog
 ---
 
+
 Online-Banking befindet sich im Umbruch: Immer mehr Banken gehen spezifisch auf ihre Zielgruppen ein und entwickeln auf diese zugeschnittene Lösungen, um konkurrenzfähig zu bleiben. Das Team von FINNOCONSULT hat diese Entwicklung zum Anlass für eine Challenge genommen und im Rahmen eines Teamevents in Berlin innerhalb von kürzester Zeit nutzerorientierte Features entworfen.
 
 Das gesamte __FINNOCONSULT-Team__ hat sich am 3.Oktober beim Berliner Schwesterunternehmen __ENNO Studio__ zu einem Ideation-Workshop getroffen. Das Ziel: Innerhalb von ein paar Stunden einen Prototypen zu entwickeln, welcher erfolgreich im Online-Banking integriert werden könnte und dem Kunden einen Mehrwert bietet.
 
-<figure class="mozaik">
-  <img src="https://media.finnoconsult.at/2019/10/enno04.jpg" alt="teo screens">
-  <img src="https://media.finnoconsult.at/2019/10/enno06.jpg" alt="teo screens">
-  <img src="https://media.finnoconsult.at/2019/10/enno07.jpg" alt="teo screens" class="notcentered">
-  <img src="https://media.finnoconsult.at/2019/10/enno08.jpg" alt="teo screens">
-  <img src="https://media.finnoconsult.at/2019/10/enno10.jpg" alt="teo screens" class="notcentered">
-  <img src="https://media.finnoconsult.at/2019/10/enno12.jpg" alt="teo screens" class="notcentered">
+<figure class="mozaik css-gallery">
+  <a href="#gallery-image-1" id="gallery-image-1"><img data-scroll="" src="https://media.finnoconsult.at/2019/10/enno04.jpg" alt="teo screens"></a>
+  <a href="#gallery-image-2" id="gallery-image-2"><img src="https://media.finnoconsult.at/2019/10/enno06.jpg" alt="teo screens"></a>
+  <a href="#gallery-image-3" id="gallery-image-3"><img src="https://media.finnoconsult.at/2019/10/enno07.jpg" alt="teo screens" class="notcentered"></a>
+  <a href="#gallery-image-4" id="gallery-image-4"><img src="https://media.finnoconsult.at/2019/10/enno08.jpg" alt="teo screens"></a>
+  <a href="#gallery-image-5" id="gallery-image-5"><img src="https://media.finnoconsult.at/2019/10/enno10.jpg" alt="teo screens" class="notcentered"></a>
+  <a href="#gallery-image-6" id="gallery-image-6"><img src="https://media.finnoconsult.at/2019/10/enno12.jpg" alt="teo screens" class="notcentered"></a>
 </figure>
 
 
@@ -30,13 +31,13 @@ Zunächst ging es darum, ein Verständnis der Nutzerbedürfnisse zu entwickeln, 
 Unsere Lösung: Wir haben uns auf folgende drei Zielgruppen der Bank fokussiert: Freelancer, Privatkunden und kleine und mittlere Unternehmen. In den jeweiligen Teams befanden sich mindestens ein Fachexperte der Finanzbranche und ein Designer.
 
 
-<figure class="mozaik">
-  <img src="https://media.finnoconsult.at/2019/10/enno15.jpg" alt="teo screens" class="notcentered">
-  <img src="https://media.finnoconsult.at/2019/10/enno16.jpg" alt="teo screens" class="notcentered">
-  <img src="https://media.finnoconsult.at/2019/10/enno17.jpg" alt="teo screens">
-  <img src="https://media.finnoconsult.at/2019/10/enno18.jpg" alt="teo screens">
-  <img src="https://media.finnoconsult.at/2019/10/enno19.jpg" alt="teo screens" class="notcentered">
-  <img src="https://media.finnoconsult.at/2019/10/enno21.jpg" alt="teo screens">
+<figure class="mozaik css-gallery">
+  <a href="#gallery-image-7" id="gallery-image-7"><img src="https://media.finnoconsult.at/2019/10/enno15.jpg" alt="teo screens" class="notcentered"></a>
+  <a href="#gallery-image-8" id="gallery-image-8"><img src="https://media.finnoconsult.at/2019/10/enno16.jpg" alt="teo screens" class="notcentered"></a>
+  <a href="#gallery-image-9" id="gallery-image-9"><img src="https://media.finnoconsult.at/2019/10/enno17.jpg" alt="teo screens"></a>
+  <a href="#gallery-image-10" id="gallery-image-10"><img src="https://media.finnoconsult.at/2019/10/enno18.jpg" alt="teo screens"></a>
+  <a href="#gallery-image-11" id="gallery-image-11"><img src="https://media.finnoconsult.at/2019/10/enno19.jpg" alt="teo screens" class="notcentered"></a>
+  <a href="#gallery-image-12" id="gallery-image-12"><img src="https://media.finnoconsult.at/2019/10/enno21.jpg" alt="teo screens"></a>
 </figure>
 
 Viele __selbständige Unternehmer__ nutzen ein Konto für ihre privaten und geschäftlichen Ausgaben und Einnahmen. Es kann kein verlässlicher Überblick über den Finanzstatus der Firma gewährt werden, wenn sich private Transaktionen darunter mischen. Ein Smart Assistant wurde konzipiert, der dem Freelancer helfen kann, den Zahlungsfluss in verschiedene Kategorie einzuteilen, um ein verständliches Bild zu schaffen. Dank dieser Lösung kann der Kleinunternehmer sein Konto virtuell aufteilen und automatisch seine Transaktionen einordnen.
@@ -54,9 +55,9 @@ Wenn Sie mehr zu zukünftigen Themen der Banken von morgen erfahren möchten, or
 
 
 <figure class="mozaik mozaik-portrait">
-  <img src="https://media.finnoconsult.at/2019/10/ennop22.jpg" alt="teo screens">
-  <img src="https://media.finnoconsult.at/2019/10/ennop13.jpg" alt="teo screens">
-  <img src="https://media.finnoconsult.at/2019/10/ennop14.jpg" alt="teo screens">
+  <a href="#gallery-image-13" id="gallery-image-13"><img src="https://media.finnoconsult.at/2019/10/ennop22.jpg" alt="teo screens"></a>
+  <a href="#gallery-image-14" id="gallery-image-14"><img src="https://media.finnoconsult.at/2019/10/ennop13.jpg" alt="teo screens"></a>
+  <a href="#gallery-image-15" id="gallery-image-15"><img src="https://media.finnoconsult.at/2019/10/ennop14.jpg" alt="teo screens"></a>
 </figure>
 
  Wenden Sie sich einfach per Email __[info@finnoconsult.at](mailto:info@finnoconsult.at)__
